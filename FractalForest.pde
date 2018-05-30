@@ -10,7 +10,7 @@ int mode = 0;
 void setup() {
   size(1024, 768);
   stroke(230, 120, 140, 150);
-  background(16);
+  background(200);
 }
 
 void draw() {
